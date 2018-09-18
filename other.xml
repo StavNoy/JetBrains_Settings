@@ -1,0 +1,13 @@
+<application>
+  <component name="EduSettings">
+    <option name="user">
+      <StepicUser>
+        <option name="accessToken" value="PJzExZFYEWv3Ksr7PZ7B7jXcvd47te" />
+        <option name="firstName" value="Stav" />
+        <option name="id" value="47389065" />
+        <option name="lastName" value="Noy" />
+        <option name="refreshToken" value="kMQuA81Rsnn40k8QPNpGnpESTnQk2N" />
+      </StepicUser>
+    </option>
+  </component>
+</application>
